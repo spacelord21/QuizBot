@@ -1,0 +1,11 @@
+
+SQL table
+{
+id int
+chatId int
+name char
+level int }
+
+logic {
+
+}
